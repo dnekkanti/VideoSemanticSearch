@@ -4,7 +4,7 @@ Search your personal video archive with plain English.
 
 Type something like **“greenery, forest, trees”** or **“sunset, beach, ocean”** and get back the best matching moments with timestamps. You can also export the top hits as real video clips.
 
-This v1 focuses on **visual concepts** (scenes/objects/looks). Action recognition (e.g., “hiking”) can come later.
+This v1 focuses on **visual concepts** (scenes/objects/looks), action recognition (e.g., “hiking”) might be in a v2.
 
 ---
 
